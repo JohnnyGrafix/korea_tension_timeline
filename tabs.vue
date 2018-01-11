@@ -23,7 +23,8 @@
 			<div class="text">
               <div class="description"> {{ item.props.description }}
 			  </div>
-		    </div>  
+		    </div>
+			
 		  </div>	  
         </li>
 	  </ul>

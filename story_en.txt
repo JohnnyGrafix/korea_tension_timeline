@@ -4,120 +4,120 @@ subhead:
 [tabs]
   image: korea_1-01.png
   props.name: truce
-  props.title: July 27, 1953
+  props.title: Truce 
   date.label: 
   date.start: 1953
   date.end: 1967 
-  status: Truce
+  status: July 27, 1953
   props.description: South Korea and North Korea signed a truce after three years of war on July 27, 1953, but it was never ratified by a formal peace treaty. Sporadic violence has come close to plunging the peninsula back into full-scale conflict on numerous occasions
 
   image: korea_2-01.png
   props.name: fire
-  props.title: January 19, 1967
+  props.title: Artillery fire
   date.label: 
   date.start: 1967
   date.end: 1968
-  status: Artillery fire
+  status: January 19, 1967
   props.description: North Korean artillery units fire on South Korean vessel Dangpo in the Yellow Sea. Ship sinks, killing 39 of 70 crew
 
   image: korea_3-01.png
   props.name: assassins
-  props.title: January 21, 1968
+  props.title: Assassination attempt
   date.label:
   date.start: 1968
   date.end: 1976
-  status: Assassination attempt
+  status: January 21, 1968
   props.description: 31 commandos from the North infiltrate area near South Korean President Park Chung-Hee’s Blue House office and residence in Seoul to assassinate him. South Korean security intercept and kill all but 2 North Korean commandos in gun battles
 
   image: korea_4-01.png
-  props.name: axe murder
-  props.title: August 18, 1976
+  props.name: axe attack
+  props.title: Axe attack
   props.chinese:
   date.label:
   date.start: 1976
   date.end: 1983
-  status: Axe attack
+  status: August 18, 1976
   props.description: North Korean soldiers attack a work party trying to chop down a tree inside the demilitarised zone. Two US army troops killed
 
   image: korea_5-01.png
   props.name: Bombing
-  props.title: October 9, 1983
+  props.title: Bombing attack, Myanmar
   props.chinese:
   date.label: 
   date.start: 1983
   date.end: 1987
-  status: Bombing attack, Myanmar
+  status: October 9, 1983
   props.description: North Korea bombs a mausoleum in Yangon, Myanmar during a visit by South Korean President Chun Doo-hwan. He survives but 21 others are killed
   
   
   image: korea_6-01.png
   props.name: Bombing
-  props.title: November 29, 1987
+  props.title: Korean Air bombing
   props.chinese:
   date.label:
   date.start: 1987 
   date.end: 1996
-  status: Korean Air bombing
+  status: November 29, 1987
   props.description: Bomb planted by two North Korean agents on a Korean Air flight explodes over the Andaman Sea, killing all 115 on board. The agents try to evade capture in Bahrain by ingesting cyanide but one (Kim Hyun-hee)is taken alive
 
   image: korea_7-01-01.png
   props.name: Spy submarine
-  props.title: August 18, 1976
+  props.title: Spy submarine
   props.chinese:
   date.label:
   date.start: 1996
   date.end: 1999
-  status: Spy submarine
+  status: August 18, 1976
   props.description: Submarine sent by Pyongyang on a spying mission runs aground near Gangneung, South Korea. Nearly all 25 crew and infiltrators killed after 45-day manhunt
 
   image: korea_8-01.png
   props.name: Naval clash
-  props.title: June 15, 1999
+  props.title: Naval clash
   props.chinese:
   date.label:
   date.start: 1999
   date.end: 2002
-  status: Naval clash
+  status: June 15, 1999
   props.description: Naval ships clash off border island of Yeonpyeong in the Yellow Sea. 1 North Korean torpedo boat sunk and 3 patrol boats are badly damaged. North Korean casualties estimated at around 50
 
   image: korea_9-01.png
   props.name:  Naval clash
-  props.title: June 29, 2002
+  props.title: Naval clash
   props.chinese: 
   date.label:
   date.start: 2002
   date.end: 2010
-  status: Naval clash
+  status: June 29, 2002
   props.description: Naval clash in Yeonpyeong leads to sinking of South Korean patrol boat, 6 killed
   
   image: korea_10-01.png
   props.name:  Naval clash, shelling
-  props.title: March 26, November 23, 2010
+  props.title: Naval clash, shelling
   props.chinese: 
   date.label:
   date.start: 2010
   date.end: 2015
-  status: Naval clash, shelling
+  status: March 26, November 23, 2010
   props.description: South Korean corvette in March sinks near border island Baengnyong in the Yellow Sea. 46 sailors killed. Investigation concludes North Korean torpedo sunk the ship. In November North Korea shells Yeonpyeong island, kills 4
   
   image: korea_11-01.png
   props.name:  War footing
-  props.title: August 21, 2015
+  props.title: War footing
   props.chinese: 
   date.label:
   date.start: 2015
   date.end: 2017
-  status: War footing
+  status: August 21, 2015 
   props.description: North Korean leader Kim Jong-Un orders his frontline troops onto a war footing following a rare exchange of artillery shells a day earlier
   
   image: korea_12-01.png
   props.name:  Defection
-  props.title: November 13, 2017
+  props.title: Defection
   props.chinese: 
   date.label:
   date.start: 2017
   date.end: 2018
-  status: Defection
+  status: November 13, 2017
   props.description: North Korean soldier runs across the DMZ as his countrymen chase and shoot. He makes it to the south side and is taken to hospital with gunshot wounds
   
   

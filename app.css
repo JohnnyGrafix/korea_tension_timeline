@@ -42,8 +42,9 @@ nav ul li.active {
   border-radius: 2px;
 }*/
 h3 {
-  font-size: 22px;
+  font-size: 25px;
   margin: 0;
+  color: #A0262A;
 }
 h3 small {
   font-size: 17px;
@@ -63,9 +64,9 @@ ul li {
     }
 .role {
     font-size: 15px;
-    color: red;
+    color: #8f8f8f;
     font-weight: bold;
-    text-transform: uppercase;
+    
   }
 p {
   /*border-top: 1px solid #e4ecef;*/
@@ -87,11 +88,34 @@ main {
 	width: 100%;
 }
 .portrait {
+	}
+
+
+@media only screen and (min-width: 500px) {
+	#app {
+		width: 95%;
+		max-width: 600px;
+	}
+	main {
+		height: 500px;
+		width: 100%;
+	}
+	.person img{
+	width: 70%;
+	float: right;
+    }
+    .description {
+	height: 200px;
+	margin-bottom: 0px;
+	padding: ;
+	}
+	.person {
+		position: relative;
+	}
+	.text {
+	padding-top: 50px;	
+	}
 	
 }
 
-/*
-@media only screen and (min-width: 500px) {
 
-
-/* Input range */
