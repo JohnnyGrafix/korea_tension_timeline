@@ -5,7 +5,11 @@ body {
 header {
   margin-bottom: 40px;
 }
+#app {
+	width: 300px;
+}
 
+/*
 nav ul {
   display: flex;
   justify-content: space-between;
@@ -15,7 +19,7 @@ nav ul {
   margin-bottom: 24px;
   max-width: 100%;
 }
-nav ul li {
+/*nav ul li {
   flex: 1;
   max-width: 100px;
   margin: 10px;
@@ -27,7 +31,7 @@ nav ul li {
   line-height: 44px;
   color: #849097;
   transition: box-shadow 0.33s ease-out, color 0.33s ease-out;
-  -webkit-transition: box-shadow 0.33s ease-out, color 0.33s ease-out; /* Safari */
+  -webkit-transition: box-shadow 0.33s ease-out, color 0.33s ease-out; /* Safari 
 }
 nav ul li:not(.active) {
   background-color: white !important;
@@ -36,7 +40,7 @@ nav ul li.active {
   box-shadow: 0 0 7px rgba(132, 144, 151, 0.3);
   color : white;
   border-radius: 2px;
-}
+}*/
 h3 {
   font-size: 22px;
   margin: 0;
@@ -50,6 +54,19 @@ ul {
   padding: 0;
   margin: 0;
 }
+ul li {
+    list-style: none;
+  }
+.text {
+      display: block !important;
+      width: 100%;
+    }
+.role {
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
 p {
   /*border-top: 1px solid #e4ecef;*/
   padding-top: 1em;
@@ -59,49 +76,22 @@ main {
   position: relative;
   height: 600px;
   width: 300px;
+  padding: 0px;
 }
 .description {
 	height: 200px;
-	border: 1px solid red;
 	margin-bottom: 0px;
 	padding: 5px;
+	}
+.person img{
+	width: 100%;
+}
+.portrait {
 	
 }
-main img {
-  position: relative;
-  width: 300px;
-  margin: 0px;
-  border: 1px solid blue;
-}
 
-.text {
-	border: 1px solid yellow;
-}
-.person {
-	border: 1px solid green;
-}
-
-
-@media screen and (min-width: 450px) {
-  main img {
-    /*float: right;*/
-    width: 55%;
-  }
-  h3 {
-    padding-top: 38px;
-  }
-  p {
-    /*width: 45%;*/
-  }
-  main {
-	  width: 100%;
-	  max-width: 600px;
-  }
-}
-
-footer {
-  clear: both;
-}
+/*
+@media only screen and (min-width: 500px) {
 
 
 /* Input range */
